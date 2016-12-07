@@ -1,0 +1,19 @@
+{
+  "name": "qlack2-bower-angular-i18n-moment",
+  "version": "1.0.0",
+  "authors": [
+    "European Dynamics SA"
+  ],
+  "description": "AngularJS i18n utility functions for MomentJS.",
+  "main": "src/QDateModule.js",
+  "moduleType": [],
+  "license": "Copyright",
+  "homepage": "http://www.qlack.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
